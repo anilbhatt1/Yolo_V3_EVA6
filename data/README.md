@@ -1,0 +1,3 @@
+- data folder.
+  - Only representative images are kept in github.
+  - While training 3800+ images were used from 'cutom data' folder. Refer https://github.com/anilbhatt1/Deep_Learning_EVA6_Phase1/tree/main/S11_Yolo for training logs.
