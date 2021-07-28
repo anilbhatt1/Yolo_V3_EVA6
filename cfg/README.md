@@ -1,0 +1,1 @@
+- yolov3-custom customized to have 4 classes instead of 80 as mentioned in main README
