@@ -1,1 +1,3 @@
 - yolov3-custom customized to have 4 classes - hardhat, mask, vest and boots - instead of 80 classes(COCO) as per instructions from main README.
+  -  'filters=255' changed to 'filters=27'
+  -  classes=80 changed to classes=4
