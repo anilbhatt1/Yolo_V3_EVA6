@@ -1,0 +1,1 @@
+- Empty folder in github. But while training in colab this folder should be residing the weights to train yolo as well as latest wight - 'last.pt'.
